@@ -1,0 +1,8 @@
+---
+galaxy_info:
+  author: asd
+  description: asd
+  company: asd
+  min_ansible_version: 2.0
+
+dependencies: []
